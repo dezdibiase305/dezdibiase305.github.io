@@ -1,0 +1,17 @@
+HOW TO UPDATE YOUR LIVE GITHUB WEBSITE
+
+1. Go to your GitHub repository:
+   https://github.com/dezdibiase305/dezdibiase305.github.io
+
+2. Upload/replace these files from this folder:
+   - index.html
+   - styles.css
+   - images folder
+
+3. Commit changes.
+
+4. Wait 1-2 minutes, then open:
+   https://dezdibiase305.github.io
+
+Your social links are already connected:
+Instagram, YouTube, Certified Street Podcast, Spotify, Facebook, and booking email.
